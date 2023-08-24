@@ -5,7 +5,7 @@ cybersec dev'r, crypto, programmer enthusiast
 ---------------------------------------------
 
 * 🌍  I'm based in Ukraine, Lviv
-* ✉️  You can contact me at [oleh.chentsov.mk.2019@lpnu.ua](mailto:)
+* ✉️  You can contact me at [chentsov.oleh@gmail.com](mailto:chentsov.oleh@gmail.com)
 * 🧠  I'm learning cybersecurity
 * ❤️  I love cryptography
 
