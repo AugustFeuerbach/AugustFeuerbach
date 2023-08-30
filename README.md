@@ -6,8 +6,7 @@ cybersec dev'r, crypto, programmer enthusiast
 
 * 🌍  I'm based in Ukraine, Lviv
 * ✉️  You can contact me at [AugustFeuerbach@proton.me](mailto:AugustFeuerbach@proton.me)
-* 🧠  I'm learning cybersecurity
-* ❤️  I love cryptography
+
 
 
 ### Socials
